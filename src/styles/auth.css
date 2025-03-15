@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-div{
+    height: 100vh; 
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.center-div{
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+    width: 100%;
+    max-width: 300px; 
+    margin: auto;
+}
+.form-div{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    gap: 15px;
+}
+.right-section {
+    flex: 1; 
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-section {
+    flex: 2;
+    position: relative;
+}
+h1{
+    font-size: 40px;
+    margin-right: auto;
+}
+input{
+    border: none;
+    border-bottom: 1px solid #969696;
+    width: 310px;
+    height: 50px;
+    
+}
+
+input,
+input::placeholder {
+    font-size: 16px;
+
+}
+
+input:focus{
+    outline: none;
+}
+.remember-forgot {
+    display: flex;
+    justify-content: space-between;
+    width: 310px;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.checkbox-container {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+   
+}
+
+.forgot-password {
+    color: #000;
+    text-decoration: none;
+    font-size: 14px;
+   
+}
+
+.forgot-password:hover {
+    text-decoration: underline;
+}
+.checkbox{
+    width: 20px;
+    height: 20px;
+}
+label{
+    font-size: 14px;
+}
+.btn-container{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.submit-btn{
+    background-color: #000;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    
+}
+.separator {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 320px; 
+    
+}
+
+.line {
+    flex: 1;
+    height: 1px;
+    background-color: #bbb; 
+}
+
+.or {
+    margin: 0 10px;
+    color: #bbb;
+    font-size: 16px;
+    font-weight: bold;
+}
+.social-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: 320px;
+    height: 50px;
+    border: 1px solid #ccc;
+    background-color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+
+
+
+

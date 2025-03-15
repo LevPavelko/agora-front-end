@@ -1,0 +1,15 @@
+{
+    "HomePage": {
+        "title" : "Sup"
+    },
+    "Auth" : {
+        "title" : "ЛОГІН",
+        "forgetPassword": "Забули пароль?",
+        "rememberMe" : "Запам'ятати мене",
+        "continue": "ПРОДОВЖИТИ",
+        "signUp": "Зареєструватися",
+        "dontHaveAccount": "У вас немає облікового запису?",
+        "continueWithGoogle": "Продовжити з Google"
+
+    }
+}

@@ -1,5 +1,14 @@
 {
     "HomePage": {
         "title" : "Hallo"
+    },
+    "Auth" : {
+        "title" : "LOG IN",
+        "forgetPassword": "Passwort vergessen?",
+        "rememberMe" : "Erinnere dich an mich",
+        "continue": "WEITER",
+        "signUp": "Melden Sie sich an",
+        "dontHaveAccount": "Sie haben noch kein Konto?",
+        "continueWithGoogle": "Weiter mit Google"
     }
 }

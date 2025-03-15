@@ -1,0 +1,15 @@
+{
+    "HomePage": {
+        "title" : "Sup"
+    },
+    "Auth" : {
+        "title" : "LOG IN",
+        "forgetPassword": "Mot de passe oublié?",
+        "rememberMe" : "Souviens-toi de moi",
+        "continue": "CONTINUER",
+        "signUp": "S'inscrire",
+        "dontHaveAccount": "Vous n'avez pas de compte ?",
+        "continueWithGoogle": "Continuer avec Google"
+
+    }
+}

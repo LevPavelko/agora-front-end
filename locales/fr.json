@@ -9,7 +9,9 @@
         "continue": "CONTINUER",
         "signUp": "S'inscrire",
         "dontHaveAccount": "Vous n'avez pas de compte ?",
-        "continueWithGoogle": "Continuer avec Google"
+        "continueWithGoogle": "Continuer avec Google",
+        "You already have account!": "Vous avez déjà un compte !"
+
 
     }
 }

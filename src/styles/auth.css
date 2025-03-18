@@ -135,8 +135,23 @@ label{
     cursor: pointer;
     transition: 0.3s;
 }
-
-
-
+.language-select-div {
+    position: absolute;
+    top: 70px;
+    right: 120px;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: transparent;
+}
+.language-select {
+    background-color: transparent;
+    border: none;
+    font-size: 16px;
+}
+.error-div{
+    margin-right: auto;
+    padding-top: 15px;
+}
 
 

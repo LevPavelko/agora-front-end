@@ -9,7 +9,9 @@
         "continue": "ПРОДОВЖИТИ",
         "signUp": "Зареєструватися",
         "dontHaveAccount": "У вас немає облікового запису?",
-        "continueWithGoogle": "Продовжити з Google"
+        "continueWithGoogle": "Продовжити з Google",
+        "You already have account!": "У вас вже є акаунт!"
+
 
     }
 }

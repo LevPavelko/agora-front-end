@@ -7,6 +7,7 @@ function Login() {
     return (
       <div>
         {/* <h1>{t('title')}</h1> */}
+       
         <LoginPage/>
       </div>
     );

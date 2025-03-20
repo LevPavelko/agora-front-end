@@ -11,5 +11,9 @@
         "dontHaveAccount": "Don't you have an account?",
         "continueWithGoogle": "Continue with Google",
         "You already have account!": "You already have account!"
+    },
+    "RegBusiness" : {
+        "title" : "ENTER YOUR BUSINESS DETAILS"
+        
     }
 }

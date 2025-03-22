@@ -13,5 +13,13 @@
         "You already have account!": "You already have account!",
         "Wrong password or email!": "Wrong password or email!",
         "You have to sign up first!": "You have to sign up first!"
-    }
+    },
+  "RegBusiness": {
+    "title": "ENTER YOUR BUSINESS DETAILS"
+
+  },
+
+  "RegisterUser": {
+    "title": "REGISTER"
+  }
 }

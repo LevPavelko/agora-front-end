@@ -1,0 +1,59 @@
+.container {
+  width: 400px;
+  margin: auto;
+  font-family: Roboto, sans-serif;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.section-title {
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+.info-text {
+  font-size: 12px;  
+}
+
+.info-div {
+  width: 310px;
+  height: 30px;
+  font-size: 12px;  
+}
+
+.select-input{
+  border: none;
+  border-bottom: 1px solid #969696;
+  width: 310px;
+  height: 50px;
+  font-size: 16px;
+ }
+
+option{
+  font-size: 16px;
+}
+
+p{
+  width: 310px;
+  height: 50px;
+}
+
+.error-text {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.success-text {
+  color: green;
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+

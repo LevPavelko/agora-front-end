@@ -10,6 +10,9 @@
         "signUp": "Melden Sie sich an",
         "dontHaveAccount": "Sie haben noch kein Konto?",
         "continueWithGoogle": "Weiter mit Google",
-         "You already have account!": "Sie haben bereits ein Konto!"
+         "You already have account!": "Sie haben bereits ein Konto!",
+         "Wrong password or email!": "Falsches Passwort oder falsche E-Mail!",
+         "You have to sign up first!": "Sie müssen sich zuerst anmelden!"
+
     }
 }

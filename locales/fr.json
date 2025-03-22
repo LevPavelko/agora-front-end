@@ -10,7 +10,10 @@
         "signUp": "S'inscrire",
         "dontHaveAccount": "Vous n'avez pas de compte ?",
         "continueWithGoogle": "Continuer avec Google",
-        "You already have account!": "Vous avez déjà un compte !"
+        "You already have account!": "Vous avez déjà un compte !",
+        "Wrong password or email!": "Mot de passe ou email incorrect !",
+        "You have to sign up first!": "Vous devez d'abord vous inscrire !"
+
 
 
     }

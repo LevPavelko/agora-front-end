@@ -10,6 +10,8 @@
         "signUp": "Sign up",
         "dontHaveAccount": "Don't you have an account?",
         "continueWithGoogle": "Continue with Google",
-        "You already have account!": "You already have account!"
+        "You already have account!": "You already have account!",
+        "Wrong password or email!": "Wrong password or email!",
+        "You have to sign up first!": "You have to sign up first!"
     }
 }

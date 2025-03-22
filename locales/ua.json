@@ -10,7 +10,10 @@
         "signUp": "Зареєструватися",
         "dontHaveAccount": "У вас немає облікового запису?",
         "continueWithGoogle": "Продовжити з Google",
-        "You already have account!": "У вас вже є акаунт!"
+        "You already have account!": "У вас вже є акаунт!",
+        "Wrong password or email!": "Неправильний пароль або email!",
+        "You have to sign up first!": "Ви повинні спочатку зареєструватися!"
+
 
 
     }
